@@ -47,8 +47,7 @@ h2,h3{
 }
 
 @media screen and (min-width:1200px){
-	body{
-		width:75%;
-		margin: 0 auto;
+	.container{
+		width: 970px;
 	}
 }
